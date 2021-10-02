@@ -4,4 +4,4 @@
 
 <slot />
 
-<p>hhahaahh</p>
+<p>수정한 페이지</p>
